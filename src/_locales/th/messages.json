@@ -1,0 +1,26 @@
+{
+    "brand": {
+        "message": "JadSkip: บล็อกโฆษณาสำหรับ Youtube และ Youtube Music"
+    },
+    "brand_desc": {
+        "message": "บล็อกโฆษณาบน YouTube และ YouTube Music, แน่ใจว่าปิดส่วนขยายอื่นก่อนใช้งาน"
+    },
+    "off": {
+        "message": "ปิด"
+    },
+    "on": {
+        "message": "เปิด"
+    },
+    "manage": {
+        "message": "จัดการ"
+    },
+    "manage_desc": {
+        "message": "<a href=\"https://www.youtube.com/feed/channels\" target=\"_blank\">จัดการ</a> โฆษณาบนช่องที่ติดตาม"
+    },
+    "report_chrome_desc": {
+        "message": "<p>แจ้งปัญหาที่ <a href=\"https://chromewebstore.google.com/detail/kcgbbbjpeiaaiokphejajemebphalmii/support\" target=\"_blank\">Chrome Web Store</a></p>"
+    },
+    "report_github_desc": {
+        "message": "<p data-locale=\"report_github_desc\">แจ้งปัญหาที่ <a href=\"https://github.com/JC-comp/JAdSkip/issues\" target=\"_blank\">GitHub</a></p>"
+    }
+}
